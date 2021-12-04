@@ -1,0 +1,38 @@
+html {
+  height: 100vh;
+  font-family: cursive, Arial, Helvetica, sans-serif;
+  letter-spacing: 1px;
+}
+
+body {
+  margin: 10px;
+  padding: 10px;
+  background: rgb(9, 7, 87);
+  color: rgb(196, 77, 170);
+  font-weight: bolder;
+}
+
+#emojiContainer {
+  margin: 40px;
+  text-align: center;
+}
+
+#emojiContainer span {
+  margin: 10px;
+  font-size: 60px;
+}
+
+#push, #unshift {
+  background: hotpink;
+}
+
+#shift, #pop {
+  background: indianred;
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
+
+
